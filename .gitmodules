@@ -1,0 +1,6 @@
+[submodule "Assets/FPS/Art"]
+	path = Assets/FPS/Art
+	url = https://github.com/AndrewKahr/CICD-Resources
+[submodule "Assets/FPS/Text"]
+	path = Assets/FPS/Text
+	url = https://github.com/AndrewKahr/CICD-Text
